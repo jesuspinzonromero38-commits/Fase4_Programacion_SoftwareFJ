@@ -1,0 +1,170 @@
+2026-11-20 20:42:46,337 - INFO - Servicios iniciales cargados correctamente.
+2026-11-20 20:44:30,594 - ERROR - Error al registrar cliente: El correo electrónico no es válido.
+2026-11-20 20:47:04,676 - ERROR - Error al registrar cliente: El nombre del cliente no es válido.
+2026-11-20 20:51:09,461 - ERROR - Error al registrar cliente: El correo electrónico no es válido.
+2026-11-20 20:53:37,397 - INFO - Cliente registrado: 1234
+2026-11-20 21:02:31,675 - ERROR - Error al registrar servicio: could not convert string to float: ''
+2026-11-20 21:02:33,112 - ERROR - Error no controlado en el menú principal.
+Traceback (most recent call last):
+  File "C:\Users\Jesus\OneDrive\Desktop\Fase4_Programacion_SoftwareFJ\main.py", line 452, in main
+    raise ValueError(
+        "Seleccione una opción válida."
+    )
+ValueError: Seleccione una opción válida.
+2026-11-20 21:02:33,489 - ERROR - Error no controlado en el menú principal.
+Traceback (most recent call last):
+  File "C:\Users\Jesus\OneDrive\Desktop\Fase4_Programacion_SoftwareFJ\main.py", line 452, in main
+    raise ValueError(
+        "Seleccione una opción válida."
+    )
+ValueError: Seleccione una opción válida.
+2026-11-20 21:02:33,754 - ERROR - Error no controlado en el menú principal.
+Traceback (most recent call last):
+  File "C:\Users\Jesus\OneDrive\Desktop\Fase4_Programacion_SoftwareFJ\main.py", line 452, in main
+    raise ValueError(
+        "Seleccione una opción válida."
+    )
+ValueError: Seleccione una opción válida.
+2026-11-20 21:02:33,940 - ERROR - Error no controlado en el menú principal.
+Traceback (most recent call last):
+  File "C:\Users\Jesus\OneDrive\Desktop\Fase4_Programacion_SoftwareFJ\main.py", line 452, in main
+    raise ValueError(
+        "Seleccione una opción válida."
+    )
+ValueError: Seleccione una opción válida.
+2026-11-20 21:02:34,122 - ERROR - Error no controlado en el menú principal.
+Traceback (most recent call last):
+  File "C:\Users\Jesus\OneDrive\Desktop\Fase4_Programacion_SoftwareFJ\main.py", line 452, in main
+    raise ValueError(
+        "Seleccione una opción válida."
+    )
+ValueError: Seleccione una opción válida.
+2026-11-20 21:02:34,333 - ERROR - Error no controlado en el menú principal.
+Traceback (most recent call last):
+  File "C:\Users\Jesus\OneDrive\Desktop\Fase4_Programacion_SoftwareFJ\main.py", line 452, in main
+    raise ValueError(
+        "Seleccione una opción válida."
+    )
+ValueError: Seleccione una opción válida.
+2026-11-20 21:02:36,418 - ERROR - Error no controlado en el menú principal.
+Traceback (most recent call last):
+  File "C:\Users\Jesus\OneDrive\Desktop\Fase4_Programacion_SoftwareFJ\main.py", line 452, in main
+    raise ValueError(
+        "Seleccione una opción válida."
+    )
+ValueError: Seleccione una opción válida.
+2026-11-20 21:02:40,351 - ERROR - Error al confirmar reserva: No existe una reserva con ese código.
+2026-11-20 21:02:40,847 - ERROR - Error no controlado en el menú principal.
+Traceback (most recent call last):
+  File "C:\Users\Jesus\OneDrive\Desktop\Fase4_Programacion_SoftwareFJ\main.py", line 452, in main
+    raise ValueError(
+        "Seleccione una opción válida."
+    )
+ValueError: Seleccione una opción válida.
+2026-11-20 21:02:40,877 - ERROR - Error no controlado en el menú principal.
+Traceback (most recent call last):
+  File "C:\Users\Jesus\OneDrive\Desktop\Fase4_Programacion_SoftwareFJ\main.py", line 452, in main
+    raise ValueError(
+        "Seleccione una opción válida."
+    )
+ValueError: Seleccione una opción válida.
+2026-11-20 21:02:40,912 - ERROR - Error no controlado en el menú principal.
+Traceback (most recent call last):
+  File "C:\Users\Jesus\OneDrive\Desktop\Fase4_Programacion_SoftwareFJ\main.py", line 452, in main
+    raise ValueError(
+        "Seleccione una opción válida."
+    )
+ValueError: Seleccione una opción válida.
+2026-11-20 21:02:40,955 - ERROR - Error no controlado en el menú principal.
+Traceback (most recent call last):
+  File "C:\Users\Jesus\OneDrive\Desktop\Fase4_Programacion_SoftwareFJ\main.py", line 452, in main
+    raise ValueError(
+        "Seleccione una opción válida."
+    )
+ValueError: Seleccione una opción válida.
+2026-11-20 21:02:40,977 - ERROR - Error no controlado en el menú principal.
+Traceback (most recent call last):
+  File "C:\Users\Jesus\OneDrive\Desktop\Fase4_Programacion_SoftwareFJ\main.py", line 452, in main
+    raise ValueError(
+        "Seleccione una opción válida."
+    )
+ValueError: Seleccione una opción válida.
+2026-11-20 21:02:41,035 - ERROR - Error no controlado en el menú principal.
+Traceback (most recent call last):
+  File "C:\Users\Jesus\OneDrive\Desktop\Fase4_Programacion_SoftwareFJ\main.py", line 452, in main
+    raise ValueError(
+        "Seleccione una opción válida."
+    )
+ValueError: Seleccione una opción válida.
+2026-11-20 21:02:41,050 - ERROR - Error no controlado en el menú principal.
+Traceback (most recent call last):
+  File "C:\Users\Jesus\OneDrive\Desktop\Fase4_Programacion_SoftwareFJ\main.py", line 452, in main
+    raise ValueError(
+        "Seleccione una opción válida."
+    )
+ValueError: Seleccione una opción válida.
+2026-11-20 21:02:41,079 - ERROR - Error no controlado en el menú principal.
+Traceback (most recent call last):
+  File "C:\Users\Jesus\OneDrive\Desktop\Fase4_Programacion_SoftwareFJ\main.py", line 452, in main
+    raise ValueError(
+        "Seleccione una opción válida."
+    )
+ValueError: Seleccione una opción válida.
+2026-11-20 21:02:41,108 - ERROR - Error no controlado en el menú principal.
+Traceback (most recent call last):
+  File "C:\Users\Jesus\OneDrive\Desktop\Fase4_Programacion_SoftwareFJ\main.py", line 452, in main
+    raise ValueError(
+        "Seleccione una opción válida."
+    )
+ValueError: Seleccione una opción válida.
+2026-11-20 21:02:44,305 - ERROR - Error no controlado en el menú principal.
+Traceback (most recent call last):
+  File "C:\Users\Jesus\OneDrive\Desktop\Fase4_Programacion_SoftwareFJ\main.py", line 452, in main
+    raise ValueError(
+        "Seleccione una opción válida."
+    )
+ValueError: Seleccione una opción válida.
+2026-11-20 21:02:47,070 - ERROR - Error no controlado en el menú principal.
+Traceback (most recent call last):
+  File "C:\Users\Jesus\OneDrive\Desktop\Fase4_Programacion_SoftwareFJ\main.py", line 452, in main
+    raise ValueError(
+        "Seleccione una opción válida."
+    )
+ValueError: Seleccione una opción válida.
+2026-11-20 21:02:47,523 - ERROR - Error no controlado en el menú principal.
+Traceback (most recent call last):
+  File "C:\Users\Jesus\OneDrive\Desktop\Fase4_Programacion_SoftwareFJ\main.py", line 452, in main
+    raise ValueError(
+        "Seleccione una opción válida."
+    )
+ValueError: Seleccione una opción válida.
+2026-11-20 21:02:47,769 - ERROR - Error no controlado en el menú principal.
+Traceback (most recent call last):
+  File "C:\Users\Jesus\OneDrive\Desktop\Fase4_Programacion_SoftwareFJ\main.py", line 452, in main
+    raise ValueError(
+        "Seleccione una opción válida."
+    )
+ValueError: Seleccione una opción válida.
+2026-11-20 21:02:47,946 - ERROR - Error no controlado en el menú principal.
+Traceback (most recent call last):
+  File "C:\Users\Jesus\OneDrive\Desktop\Fase4_Programacion_SoftwareFJ\main.py", line 452, in main
+    raise ValueError(
+        "Seleccione una opción válida."
+    )
+ValueError: Seleccione una opción válida.
+2026-11-20 21:02:48,100 - ERROR - Error no controlado en el menú principal.
+Traceback (most recent call last):
+  File "C:\Users\Jesus\OneDrive\Desktop\Fase4_Programacion_SoftwareFJ\main.py", line 452, in main
+    raise ValueError(
+        "Seleccione una opción válida."
+    )
+ValueError: Seleccione una opción válida.
+2026-11-20 21:05:59,565 - WARNING - Ejecución interrumpida por el usuario.
+2026-11-20 21:05:59,565 - INFO - Finalizó la ejecución de Software FJ.
+2026-11-20 21:32:17,108 - INFO - Servicios iniciales cargados correctamente.
+2026-11-20 21:34:08,164 - INFO - Cliente registrado: 100200300
+2026-11-20 21:39:32,459 - INFO - Servicio registrado: S004
+2026-11-20 21:42:27,529 - INFO - Reserva creada: R001
+2026-11-20 21:43:27,852 - INFO - Reserva confirmada: R001
+2026-11-20 21:45:24,600 - INFO - Reserva R001 procesada. Costo: 100000.00
+2026-11-20 21:47:51,735 - INFO - Reserva creada: R002
